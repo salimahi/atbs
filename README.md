@@ -1,4 +1,4 @@
-# Repository Description
+# ATBS = Automate the Boring Stuff (on Python)
 The files in this repository are projects I completed while working through the Automate The Boring Stuff Udemy course. Read below for the descriptions of each project. 
 
 ## roulette-strategy.py
