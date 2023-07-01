@@ -12,3 +12,12 @@ Once you run it, you will see:
 -The last wheel result
 -Your total cash
 -How many zeros, reds or blacks you hit. 
+
+## nftf-habit-determination-algorithm
+This program is for someone who is trying to decide if they want to take on a new habit while operationalizing the Negative Five to Five Scale (NFTF).
+(You can read about the NFTF Scale on my blog at: https://www.salimahismail.com/read/nftf)
+
+When you run the program, you will be prompted to share the habit you are thinking about taking on 
+and then it will ask you a series of questions with active feedback on whether or not it is the right decision. 
+(The full blog post on this tool is here: https://www.salimahismail.com/read/nftf-habit-tool)
+ 
