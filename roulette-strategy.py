@@ -1,7 +1,7 @@
 import random
 
 #Cash on Hand
-totalCash = 100
+totalCash = 1000
 doubleCash = 2*totalCash
 
 #Start at Zero
@@ -28,7 +28,7 @@ while totalCash > 0 and totalCash < doubleCash:
                 if totalCash >= bet:
                         totalCash = totalCash - bet
                 elif totalCash < bet:
-                        totalCash == 0
+                        break
                 
 
         #Landing on Red
@@ -38,12 +38,16 @@ while totalCash > 0 and totalCash < doubleCash:
                 if totalCash >= bet:
                         totalCash = totalCash - bet
                 elif totalCash < bet:
-                        totalCash == 0
+                        break
                 
         #Landing on Black
         elif (wheel % 2) == 0:
-                totalCash = totalCash + bet
                 wheelResults.append('black')
+                #Checking if you still have cash to bet with
+                if totalCash >= bet + 5:
+                        totalCash = totalCash + bet
+                elif totalCash < bet + 5:
+                        break
 
 num_of_zeros = wheelResults.count('zero')
 num_of_red = wheelResults.count('red')
