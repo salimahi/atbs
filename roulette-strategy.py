@@ -61,6 +61,24 @@ red {num_of_red} times
 black {num_of_black} times.
 """)
 
+# Calculate average bet amount
+average_bet = sum(betList) / len(betList)
+
+# Calculate probabilities
+total_rounds = len(wheelResults)
+prob_zero = 2/38
+prob_red = 18/38
+prob_black = 18/38
+
+# Calculate expected value
+expected_value = prob_zero * (-average_bet) + prob_red * (-average_bet) + prob_black * (average_bet - 5)
+
+if expected_value >= 0:
+        print(f"For playing {total_rounds} rounds, it is expected that you would gain, on average ${round(expected_value,2)}, for each round played.")
+else:
+        print(f"For playing {total_rounds} rounds, it is expected that you would lose, on average ${round(expected_value,2)}, for each round played.")
+
+
     
 
     
