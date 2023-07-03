@@ -11,7 +11,8 @@ Once you run it, you will see:
 -Your last bet
 -The last wheel result
 -Your total cash
--How many zeros, reds or blacks you hit. 
+-How many zeros, reds or blacks you hit.
+-The expected value of your betting length. 
 
 ## nftf-habit-determination-algorithm
 This program is for someone who is trying to decide if they want to take on a new habit while operationalizing the Negative Five to Five Scale (NFTF).
