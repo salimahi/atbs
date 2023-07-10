@@ -22,3 +22,6 @@ When you run the program, you will be prompted to share the habit you are thinki
 and then it will ask you a series of questions with active feedback on whether or not it is the right decision. 
 (The full blog post on this tool is here: https://www.salimahismail.com/read/nftf-habit-tool)
  
+##guess-the-number
+This is a simple program for a game where the user has 7 guesses to choose a number between 1 and 20. 
+This project was simple practice for conditional logic and breaking loops. 
