@@ -35,3 +35,14 @@ A program that outlines a game of tic tac toe where:
 -The computer is given a competitive strategy (checking to win, to block, to take a corner or center)
 -The system checks if someone has won or the board is full
 -The player is asked if they want to play again. 
+
+## create_birthday_database.py
+A program that let's you record names and birthdays into a dictionary and saves it as a pkl file so it can be retrieved. 
+
+## retrieve_and_add_to_birthday_database
+A program the lets you retrieve the birthday database pkl file and add to it or correct existing entries. 
+
+## create_picnic.py and retrieve_picnic.py
+Similar to the birthday database, a program that lets you create an inventory of supplies and save it to a pkl file so it can be retrieved later. 
+
+(The full blog post on this tool can be read here: https://www.salimahismail.com/read/user-friendly-python-dictionary)  
