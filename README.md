@@ -46,3 +46,6 @@ A program the lets you retrieve the birthday database pkl file and add to it or 
 Similar to the birthday database, a program that lets you create an inventory of supplies and save it to a pkl file so it can be retrieved later. 
 
 (The full blog post on this tool can be read here: https://www.salimahismail.com/read/user-friendly-python-dictionary)  
+
+## magic8ball.py
+A simple Magic 8 Ball program that generates a random message. 
