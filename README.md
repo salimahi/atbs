@@ -49,3 +49,15 @@ Similar to the birthday database, a program that lets you create an inventory of
 
 ## magic8ball.py
 A simple Magic 8 Ball program that generates a random message. 
+
+## python-sheets-import.py
+Code to import information from multimple google sheets and compile them into a single document. 
+(The full blog post on this tool can be read here: https://www.salimahismail.com/read/how-to-connect-python-to-google-sheets) 
+
+## isPhoneNumber.py 
+A tool to read through text and find phone numbers with different types of formatting. 
+
+## phoneregex.py
+A more simplified tool to read through text and find phone numbers as well as extra notes on other Regex functions. 
+
+
