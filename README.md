@@ -83,4 +83,10 @@ A somewhat one-time-use program that automates all the following actions:
 -Send the saved message to the recipient
 
 ## autofill-bleekerconnect.py
-A program created to create accounts at bleekerconnect.com based on user information in a spreadsheet. 
+A program created to create accounts at bleekerconnect.com based on user information in a spreadsheet.
+
+## mass-email-deidentified.py
+A program that allows you to send mass emails from your inbox.  
+
+## tpts-deidentified.py
+A program that compiles multiple google sheets into one. (The full blog post on this tool can be read here: https://www.salimahismail.com/read/how-to-connect-python-to-google-sheets)
