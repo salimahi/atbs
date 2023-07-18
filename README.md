@@ -68,3 +68,6 @@ A program that creates 35 different quizes for state capitals alongw ith corresp
 
 ## mapit.py
 A program that opens google maps and searches addresses from the command line.  
+
+## savetotxt.py
+A program that save your clipboard to a text file from the command line. (The full blog post on this tool can be read here: https://www.salimahismail.com/read/saving-to-text-files-through-the-command-line) 
