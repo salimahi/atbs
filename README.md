@@ -64,4 +64,7 @@ A more simplified tool to read through text and find phone numbers as well as ex
 A program that will find any phone numbers or emails saved to your clipboard and save the found data as a text file on your computer. 
 
 ## randomQuizGenerator.py
-A program that creates 35 different quizes for state capitals alongw ith corresponding answer keys. 
+A program that creates 35 different quizes for state capitals alongw ith corresponding answer keys.
+
+## mapit.py
+A program that opens google maps and searches addresses from the command line.  
