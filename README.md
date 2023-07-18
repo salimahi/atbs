@@ -60,4 +60,7 @@ A tool to read through text and find phone numbers with different types of forma
 ## phoneregex.py
 A more simplified tool to read through text and find phone numbers as well as extra notes on other Regex functions. 
 
+## phone-email-scraper.py
+A program that will find any phone numbers or emails saved to your clipboard and save the found data as a text file on your computer. 
+
 
