@@ -70,4 +70,17 @@ A program that creates 35 different quizes for state capitals alongw ith corresp
 A program that opens google maps and searches addresses from the command line.  
 
 ## savetotxt.py
-A program that save your clipboard to a text file from the command line. (The full blog post on this tool can be read here: https://www.salimahismail.com/read/saving-to-text-files-through-the-command-line) 
+A program that save your clipboard to a text file from the command line. (The full blog post on this tool can be read here: https://www.salimahismail.com/read/saving-to-text-files-through-the-command-line)
+
+## draw-spiral.py
+A simple program that draws a randomly skewed spiral in paint.  
+
+## keyboard-control-message-to-seth.py
+A somewhat one-time-use program that automates all the following actions: 
+-Writes a message in Notepad
+-Saves the message
+-Opens Signal
+-Send the saved message to the recipient
+
+## autofill-bleekerconnect.py
+A program created to create accounts at bleekerconnect.com based on user information in a spreadsheet. 
