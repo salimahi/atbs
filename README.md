@@ -90,3 +90,9 @@ A program that allows you to send mass emails from your inbox.
 
 ## tpts-deidentified.py
 A program that compiles multiple google sheets into one. (The full blog post on this tool can be read here: https://www.salimahismail.com/read/how-to-connect-python-to-google-sheets)
+
+## auth-test.py
+A way to test if your gspread connection is authenticated or not. 
+
+## openphone_automation.py
+A program to send mass texts through openphone using PyAutoGui. Need to double check the coordinates every time. 
