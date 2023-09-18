@@ -96,3 +96,6 @@ A way to test if your gspread connection is authenticated or not.
 
 ## openphone_automation.py
 A program to send mass texts through openphone using PyAutoGui. Need to double check the coordinates every time. 
+
+## autofill-demo-for-blogpost.py 
+A program to show how to autofill a form using PyAutoGui. (The full blog post on this tool can be read here: https://www.salimahismail.com/read/automate-something-repetitive) 
